@@ -1,0 +1,7 @@
+PRAC3-
+rohan@Rohans-MacBook-Pro-M4 Practical % ./prac3
+Parent Process
+PID : 3077
+Child Process
+PID : 3080
+PPID : 3077
